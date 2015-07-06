@@ -1,2 +1,2 @@
-Lorem ipsum dolor sit
+Lorem ipsum dolor sit amet
 added online!
